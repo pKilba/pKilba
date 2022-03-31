@@ -27,15 +27,7 @@
 - IDE- Intellij IDEA, VS Code,Visual Studio
 - Servers- Tomcat
 - Some experiance with-С/С++, C#, React,Delphy,Bash script
-<p class="aligncenter">
+
 <img   src="https://99px.ru/sstorage/86/2015/10/image_862310151728392738914.gif">
-
-</p>
-<style>
-
-.aligncenter {
-    text-align: center;
-}
-</style>
 
  
