@@ -27,7 +27,7 @@
 - Frameworks: Spring, Bootstrap 
 - Services: AWS
 
-<img alight = "middle"  src="https://cs8.pikabu.ru/post_img/2016/05/19/9/1463672575129486220.gif">
+<img  src="https://cs8.pikabu.ru/post_img/2016/05/19/9/1463672575129486220.gif">
 
 
  
