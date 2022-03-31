@@ -15,17 +15,18 @@
 -----
 
 ### Tech Stack:
-- Backend - Java,C++
+- Backend - Java8,Spring MVC,Hibernate,Restful Services,Microservices
+- Frontend- HTML5, CSS3, JavaScript
+- Database- MySql
+- Services- AWS(EC2,RDS,S3,IAM)
+- CI/CD- Jenkins
+- Test- Junit4/5,TestComplete,Selenium
+- Build tools- Maven, Gradle
 - Operating Systems - Linux,Windows
-- Frontend: HTML5, CSS3, JavaScript
-- Database: MySql
-- Version Control: Git
-- IDE: Intellij IDEA, VS Code,Visual Studio
-- Servers: Tomcat
-- Build tools: Maven, Gradle
-- CI/CD: Jenkins
-- Frameworks: Spring, Bootstrap 
-- Services: AWS
+- Version Control- Git
+- IDE- Intellij IDEA, VS Code,Visual Studio
+- Servers- Tomcat
+- Some experiance with-С/С++, C#, React,Delphy,Bash scipt
 
 <img  src="https://99px.ru/sstorage/86/2015/10/image_862310151728392738914.gif">
 
