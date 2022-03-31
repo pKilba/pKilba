@@ -28,6 +28,8 @@
 - Servers- Tomcat
 - Some experiance with-С/С++, C#, React,Delphy,Bash script
 
+-----
+
 <img   src="https://99px.ru/sstorage/86/2015/10/image_862310151728392738914.gif">
 
  
