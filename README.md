@@ -10,7 +10,9 @@
 
 - <img alight ="left" width="24px" src="https://img.icons8.com/fluency/344/bicycle.png"> 
 
-- <img alight ="left" width="24px" src="https://img.icons8.com/color/2x/sunbathe.png"> 
+- <img alight ="left" width="24px" src="https://img.icons8.com/color/2x/sunbathe.png">
+- 
+- <img alight ="left" width="24px" src="https://img.icons8.com/emoji/344/dove-emoji.png"> 
 
 -----
 
@@ -26,7 +28,7 @@
 - Version Control- Git
 - IDE- Intellij IDEA, VS Code,Visual Studio
 - Servers- Tomcat
-- Some experiance with-С/С++, C#, React,Delphy,Bash script
+- Some experiance with- С/С++, C#, React, Delphy, Bash script
 
 -----
 
