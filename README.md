@@ -2,7 +2,8 @@
 
 ### I'm a Java Web Developer
 
-### My LinkedIn https://www.linkedin.com/in/pavel-kilbas-172b74166/
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt="Eugene Shadura LinkedIn" height='30'>](https://www.linkedin.com/in/pavel-kilbas-172b74166/)
+
 -----
 ### I like: 
 
