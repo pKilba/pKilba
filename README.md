@@ -7,8 +7,6 @@
 -----
 ### I like: 
 
-- <img alight ="left" width="24px" src="https://img.icons8.com/fluency/2x/beer.png"> 
-
 - <img alight ="left" width="24px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"> 
 
 - <img alight ="left" width="24px" src="https://img.icons8.com/fluency/344/bicycle.png"> 
