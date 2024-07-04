@@ -1,4 +1,4 @@
-## Hello, I'm Pavel 
+## Hello
 
 ### I'm a Java Web Developer
 
